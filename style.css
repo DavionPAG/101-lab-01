@@ -17,8 +17,8 @@ body {
 
 .about-me{
   background: rgb(224, 255, 220);
-  border: 10px, outset, cyan;
-  border-radius: 10%;
+  border: 2rem, outset, cyan;
+  border-radius: 2rem;
   padding: 2rem;
 }
 
@@ -37,7 +37,7 @@ footer {
   text-align: center;
   margin-top: auto;  
   background: rgb(224, 255, 220);
-  border: 10px, outset, rgba(106, 131, 131, 0.158);
-  border-radius: 10%;
+  border: 2rem, outset, rgba(106, 131, 131, 0.158);
+  border-radius: 2rem;
   font-weight: bold;
 }
